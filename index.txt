@@ -1,0 +1,212 @@
+Crispy - Chicken Burgers
+
+This is a food html template made by codewithsadee
+
+
+#---------- HEADER ----------#
+
+alt = Crispy home
+
+aria-label = close menu
+<ion-icon name="close-outline" aria-hidden="true"></ion-icon>
+
+alt = Crispy home
+
+Home
+Menu
+About
+Shop
+Blog
+
+Book A Table
+<ion-icon name="arrow-forward-outline" aria-hidden="true"></ion-icon>
+
+<ion-icon name="call-outline" aria-hidden="true"></ion-icon>
+000 (123) 456 89
+
+Book A Table
+<ion-icon name="arrow-forward" aria-hidden="true"></ion-icon>
+
+aria-label = open menu
+<ion-icon name="menu-outline" aria-hidden="true"></ion-icon>
+
+
+
+
+#---------- HERO ----------#
+
+Crispy Chicken Burgers
+
+Sit amet consectetur adipiscing Malesuada morbigrave ullamore alesuada nec pulvinar nisle
+
+alt = arrow
+
+Order Now
+<ion-icon name="arrow-forward" aria-hidden="true"></ion-icon>
+
+alt = hero-banner
+
+alt =  shape
+
+alt = line
+
+
+
+#---------- POPULAR ----------#
+
+Our Popular Food
+
+Best Category Foods Menu
+
+alt = Pizza
+Pizza
+aria-label = View all product
+<ion-icon name="arrow-forward" aria-hidden="true"></ion-icon>
+
+alt = Burger
+Burger
+
+alt = Bread
+Bread
+
+alt = Seafoods
+Seafoods
+
+alt = Coffee
+Coffee
+
+alt = Chicken
+Chicken
+
+
+
+#---------- MENU ----------#
+
+Best Food Menu
+
+Choose Your Best Menus
+
+menu banner
+
+alt = Hamburger
+
+Hamburger
+$25
+
+Roasted langoustine, consommé
+
+<ion-icon name="star"></ion-icon>
+
+(5k Reviews)
+
+Pizza
+$63
+
+Baked Chicken Wings
+$199
+
+Seafood Pizza
+$352
+
+
+
+#---------- SCHEDULE ----------#
+
+
+Working Hour
+
+Enjoy Our Foods From 6 Days In a Week
+
+Monday - Friday
+09am-6pm
+
+Saturday
+08am-7pm
+
+Sunday
+Closed
+
+alt = schedule banner
+
+
+
+#---------- RESERVATION ----------#
+
+alt = Reservation banner
+
+Booking Table
+
+Make A Reservations
+
+Sit amet consectetur adipiscing elitsue risus mauris adipiscing phasellus aene ante orcirat
+
+Person
+<ion-icon name="person-outline"></ion-icon>
+
+Reserved Date
+<ion-icon name="calendar-outline"></ion-icon>
+
+Reservations time
+<ion-icon name="time-outline"></ion-icon>
+
+Book A Table
+<ion-icon name="arrow-forward-outline"></ion-icon>
+
+alt = shape
+
+
+
+#---------- FOOTER ----------#
+
+
+alt = Crispy home
+
+Sit amet consectetur adipiscing elitsue risus mauris adipis
+
+placeholder = Email Address
+
+aria-label = Subscribe
+<ion-icon name="arrow-forward"></ion-icon>
+
+Quick Links
+
+About Company
+Home Shop
+Our Menu (CMS)
+Shop (Ecom)
+Recipes
+
+Products
+
+Hamburger
+Chicken Burger
+Vegetable Pizza
+Chicken Roll
+Ice-Cream
+Potato
+Organic Juice
+Lemon Juice
+MuTton Tikka
+Seafoods
+
+Call for order:
+
++1 2586 5892
+hello@crispy.com
+
+Location :
+119 Tanglewood Lane Gulfport, MS 39503
+
+&copy; 2023 codewithsadee, All Rights Reserved
+
+Setting & Privacy
+Faqs
+Food Menu
+
+
+
+#---------- BACK TO TOP ----------#
+
+aria-label = back to top
+
+<ion-icon name="chevron-up" aria-hidden="true"></ion-icon>
